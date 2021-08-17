@@ -9,5 +9,3 @@
 <div align="center">
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=riq-dev&layout=compact&theme=gotham&hide_title=true"/></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=riq-dev" alt="riq-dev" /> 
-
