@@ -13,7 +13,7 @@ export LESS_TERMCAP_us=$'\e[1;4;31m'
 PATH="$HOME/.local/bin${PATH:+:${PATH}}"
 HISTFILE="$XDG_DATA_HOME"/bash/history
 HISTCONTROL=ignoredups:erasedups
-PS1="\[$(tput setaf 8)\]\[$(tput bold)\] ➟ \[$(tput setaf 9)\]\[$(tput bold)\] \w \[$(tput bold)\]\[$(tput setaf 5)\]"
+PS1="\[$(tput setaf 7)\]\[$(tput bold)\] ➟ \[$(tput setaf 9)\]\[$(tput bold)\] \w \[$(tput bold)\]\[$(tput setaf 5)\]\[$(tput sgr0)\]"
 
 ### Options ###
 shopt -s checkwinsize
